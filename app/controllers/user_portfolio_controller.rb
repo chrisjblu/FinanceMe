@@ -1,0 +1,2 @@
+class UserPortfolioController < ApplicationController
+end
